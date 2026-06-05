@@ -68,8 +68,6 @@ Desarrollado con navegación externa en Flutter.
 
 ![Listado de sitios turísticos](https://github.com/user-attachments/assets/5552e744-46e8-4b82-9e12-e250900dc648)
 
-![Información de lugares](https://github.com/user-attachments/assets/a6903edf-d411-4b0b-ae03-934d2fe07c82)
-
 ![Favoritos](https://github.com/user-attachments/assets/3ec6bfb6-b7ae-48f0-8c63-a2ed83a9db31)
 
 ### Integración con Google Maps
